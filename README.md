@@ -1,2 +1,6 @@
 # MyFirstRepository
-Tutorial Repository
+# sewc uni
+
+'''
+Hello world
+'''
