@@ -1,6 +1,3 @@
+# MyFirstRepository
 
-## sewc uni
-
-'''
-Hello world
-'''
+Hello My name is HanGyeol
