@@ -2,4 +2,4 @@
 
 Hello My name is HanGyeol
 
-<img width=""height=""src="./Png/dog"></img>
+<img width=""height=""src="./Png/dog.png"></img>
